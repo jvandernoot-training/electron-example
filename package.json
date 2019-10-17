@@ -1,9 +1,9 @@
 {
-  "name": "native-node-electron-example",
+  "name": "electron-example",
   "version": "0.0.1",
   "description": "Demonstrates how to add a native node modules to an Electron application and ensure the module is bundled with the app using relative paths.",
   "main": "main.js",
-  "repository": "https://github.com/jvandernoot/native-node-electron-example.git",
+  "repository": "https://github.com/jvandernoot/electron-example.git",
   "author": "Jamie VanDernoot <jamesvandernoot@gmail.com>",
   "license": "MIT",
   "private": false,
