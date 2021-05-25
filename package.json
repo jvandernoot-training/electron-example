@@ -13,7 +13,7 @@
     "postinstall": "electron-builder install-app-deps"
   },
   "devDependencies": {
-    "electron": "^10.1.2",
+    "electron": "^10.2.0",
     "electron-builder": "^22.8.0",
     "electron-webpack": "^2.8.2",
     "webpack": "^4.44.1"
